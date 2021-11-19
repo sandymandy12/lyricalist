@@ -1,0 +1,1 @@
+from Lyrics import Lyrics
