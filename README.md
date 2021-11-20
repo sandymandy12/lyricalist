@@ -20,3 +20,4 @@ copy this -> where geckodriver
 ## 3. Set as driver param
 
 driver = webdriver.Firefox(executable_path='/opt/homebrew/bin/geckodriver')
+** Note executable_path is deprecated and uses Service(<path>) 
